@@ -667,6 +667,7 @@ const chipsModelA = [
          'iPad Mini 6 ( 2021 )',
          'iPhone 14',
          'iPhone 14 Plus',
+         'Apple TV 4k ( 3代 )',
       ],
       transistorCount: '150', // 亿
       os: {
